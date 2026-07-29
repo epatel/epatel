@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.memention.com"><img alt="Website" src="https://img.shields.io/badge/memention.com-111?style=flat-square&logo=safari&logoColor=white"></a>
+  <a href="https://memention.com"><img alt="Website" src="https://img.shields.io/badge/memention.com-111?style=flat-square&logo=safari&logoColor=white"></a>
   <a href="https://memention.com/blog/"><img alt="Blog" src="https://img.shields.io/badge/blog-111?style=flat-square&logo=rss&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=epatel&style=flat-square&color=111111">
 </p>
