@@ -15,12 +15,13 @@
 Two things keep showing up in my repos:
 
 **Old machines.** A Macintosh Plus running on an ESP32. A 6502 rebuilt out of 4,051 discrete
-transistors. A small-C compiler for the C64, in JavaScript. A Palm OS portal, because someone
-had to.
+transistors. A small-C compiler for the C64, in JavaScript. The Jupiter ACE, the 1982 micro
+that booted into FORTH instead of BASIC, brought back to iPad and Android. A Palm OS portal,
+because someone had to.
 
 **New agents.** Scrum boards that dispatch Claude agents into isolated git worktrees. Systems
-that turn GitHub issues into pull requests while I'm asleep. SDKs, benchmarks, and workflow
-builders for making coding agents actually useful.
+that turn GitHub issues into pull requests while I'm asleep. Workflows you wire up in the
+browser and chain into each other. And now a book, written with agents, about working with them.
 
 The overlap is the fun part: both are about giving a small, constrained machine a very clear
 job and seeing how far it gets.
@@ -31,14 +32,27 @@ job and seeing how far it gets.
 
 | | |
 |---|---|
+| **[agentic-playbook](https://github.com/epatel/agentic-playbook)** | *The Agentic Playbook*: twenty working plays for agentic coding, with every figure traced to a cited source. [Read it online](https://epatel.github.io/agentic-playbook/). |
 | **[esp32_mac](https://github.com/epatel/esp32_mac)** | A Macintosh Plus emulator on a Waveshare ESP32-S3 touch board. `C` |
 | **[discrete6502](https://github.com/epatel/discrete6502)** | A MOS 6502 CPU rebuilt from 4,051 discrete transistors. |
+| **[iACE2](https://github.com/epatel/iACE2)** | A Jupiter ACE emulator for tablets and phones, with the original FORTH manual built in. `Dart` `C` |
 | **[claude-agents-dashboard](https://github.com/epatel/claude-agents-dashboard)** | A scrum board that orchestrates Claude agents, one git worktree per task. `Python` |
+| **[workflow-builder](https://github.com/epatel/workflow-builder)** | Define agent workflows in the browser, run them with the Claude Agent SDK, watch them live. `Python` |
 | **[vps-ai](https://github.com/epatel/vps-ai)** | Autonomous agents that turn GitHub issues into code. |
 | **[cc64-web](https://github.com/epatel/cc64-web)** | The cc64 small-C compiler for the Commodore 64, reimplemented in JS. |
 | **[terminal_pad](https://github.com/epatel/terminal_pad)** | An infinite 2D canvas text pad that lives in your terminal. `Rust` |
 
-<sub>~150 repos total — the rest are experiments, forks, and things I needed once.</sub>
+<sub>~150 repos in total. The rest are experiments, forks, and things I needed once, like a
+<a href="https://github.com/epatel/zine-creator">fold-and-cut zine maker</a> and
+<a href="https://github.com/epatel/sanzo-wada-mobile-demo">Sanzo Wada's color pairs on a phone UI</a>.</sub>
+
+---
+
+### Lately on the blog
+
+- [Arguing in public](https://memention.com/blog/2026/09/23/Arguing-in-public.html): why I wrote *The Agentic Playbook*, and why it cites everything
+- [I love melted cheese](https://memention.com/blog/2026/07/08/I-love-melted-cheese.html): pizza menus you can filter, built on chained agent workflows
+- [A lab in the closet](https://memention.com/blog/2026/06/12/A-lab-in-the-closet.html): a Raspberry Pi 5 that keeps the agents working after the laptop lid closes
 
 ---
 
